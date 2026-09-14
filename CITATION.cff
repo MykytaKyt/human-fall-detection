@@ -9,9 +9,9 @@ authors:
   - family-names: Yesilevskyi
     given-names: Valentyn
     affiliation: "Kharkiv National University of Radio Electronics"
-date-released: 2026-01-01
+date-released: 2026-09-144
 license: MIT
-repository-code: "https://github.com/<your-username>/urfd-cascade-fall-detection"
+repository-code: "https://github.com/MykytaKyt/human-fall-detection"
 keywords:
   - fall detection
   - pose estimation
