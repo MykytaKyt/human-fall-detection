@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Kinematic Cascade for Posture-Anomaly (Fall) Detection"
+authors:
+  - family-names: Kyt
+    given-names: Mykyta
+    email: mykyta.kyt@nure.ua
+    affiliation: "Kharkiv National University of Radio Electronics"
+  - family-names: Yesilevskyi
+    given-names: Valentyn
+    affiliation: "Kharkiv National University of Radio Electronics"
+date-released: 2026-01-01
+license: MIT
+repository-code: "https://github.com/<your-username>/urfd-cascade-fall-detection"
+keywords:
+  - fall detection
+  - pose estimation
+  - liquid time-constant networks
+  - computer vision
+  - edge AI
+references:
+  - type: dataset
+    title: "UR Fall Detection Dataset"
+    authors:
+      - family-names: Kwolek
+        given-names: Bogdan
+      - family-names: Kepski
+        given-names: Michal
+    year: 2014
+    doi: "10.1016/j.cmpb.2014.09.005"
+  - type: article
+    title: "Liquid time-constant networks"
+    authors:
+      - family-names: Hasani
+        given-names: Ramin
+      - family-names: Lechner
+        given-names: Mathias
+      - family-names: Amini
+        given-names: Alexander
+      - family-names: Rus
+        given-names: Daniela
+      - family-names: Grosu
+        given-names: Radu
+    year: 2021
+    doi: "10.1609/aaai.v35i9.16936"
